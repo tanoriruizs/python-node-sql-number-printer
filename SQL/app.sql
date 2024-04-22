@@ -1,4 +1,3 @@
-
 WITH Numbers AS (
   SELECT 1 AS num
   UNION ALL
@@ -8,3 +7,4 @@ WITH Numbers AS (
 )
 SELECT num
 FROM Numbers;
+
